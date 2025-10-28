@@ -1,0 +1,1 @@
+print("script Python para prueba")
